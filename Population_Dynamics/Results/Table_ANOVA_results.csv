@@ -1,0 +1,8 @@
+Source of variation,df,Deviance,Residual df,Residual deviance,F-value,p-value,Significance
+Period,1,6775,65,202036,20.98,2.34e-05,***
+Area,1,114497,64,87539,354.56,<2.2e-16,***
+Region,1,43973,63,43566,136.17,<2.2e-16,***
+Period — Area,1,16141,62,27425,49.98,1.76e-09,***
+Period — Region,1,7726,61,19698,23.93,7.64e-06,***
+Area — Region,0,0,61,19698,,-,
+Period — Area — Region,0,0,61,19698,,-,
